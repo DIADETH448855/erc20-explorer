@@ -3,7 +3,17 @@
 
 ERC20-Exporter is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
 
+# echo "# DIADETH448855/erc20-explorer" >> README.md 
+git init 
+git add README.md 
+git commit -m "prima comitere" 
+git branch -M master 
+git remote adauga origine https://github.com/DIADETH448855/erc20-explorer.git
+ git push -u origin master
 
+# git remote adaugă originea https://github.com/DIADETH448855/erc20-explorer.git
+ git branch -M master 
+git push -u origin master
 A demo instance connected to the Golem Network Token is available at [gnt.etherchain.org](http://gnt.etherchain.org).
 
 ## Current Features
