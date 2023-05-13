@@ -3,7 +3,7 @@
 
 ERC20-Exporter is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
 
-# echo "# DIADETH448855/erc20-explorer" >> README.md 
+# echo "# DIADETH448855/erc20-explorer " >> README.md 
 git init 
 git add README.md 
 git commit -m "prima comitere" 
